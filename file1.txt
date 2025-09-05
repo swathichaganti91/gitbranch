@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello swathi 1123 hi swathi
+=======
+hello swathi 12
+>>>>>>> 5c72170aad325df2be31d87171fdfdb7a1fc6771
